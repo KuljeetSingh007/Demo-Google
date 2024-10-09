@@ -9,7 +9,7 @@
 body {
     height: 100vh;
     background-repeat: no-repeat;
-    background-image: url("/images/bgmyg.jpg");
+    background-image: url(images/bgmyg.jpg);
     background-size: cover;
     background-position: center;
 }
